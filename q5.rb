@@ -9,3 +9,4 @@ result = 0
     (0..C).each { |c| result += 1 if a * 500 + b * 100 + c * 50 == X }
   end
 end
+p result
