@@ -1,2 +1,2 @@
-s = gets.chomp.chars.map(&:to_i)
-p s.sum
+p gets.chars.map(&:to_i).sum
+
